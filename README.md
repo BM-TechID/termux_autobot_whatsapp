@@ -244,12 +244,7 @@ Follow The Steps Below!
 * <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <a href="https://github.com/nurutomo"><img alt="GitHub" src="https://img.shields.io/badge/nurutomo%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <a href="https://github.com/affisjunianto"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+* <a href="https://github.com/BM-TechID"><img alt="GitHub" src="https://img.shields.io/badge/BM-TechID%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <img alt="GitHub" src="https://img.shields.io/badge/TEAM FXC7BOT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 
 
-
-## Group
-
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
----
